@@ -1,4 +1,4 @@
-FROM ruby:2.6.5-alpine
+FROM ruby:2.7.3-alpine
 
 ENV NODE_MAJOR 8
 
